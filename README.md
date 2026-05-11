@@ -173,6 +173,6 @@ GitHub: [Add Your GitHub Link]
 
 Feel free to:
 
-Star this repository
-Fork the project
-Connect with me on LinkedIn
+# Star this repository
+ #ork the project
+# Connect with me on LinkedIn
